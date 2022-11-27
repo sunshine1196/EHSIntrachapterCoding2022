@@ -1,0 +1,2 @@
+1. Edit all code to read data from /tests/*.txt
+2. TODO
